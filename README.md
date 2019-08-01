@@ -1,4 +1,4 @@
-# Create-React-App [MINIMAL]
+# Create-React-App
 
 Custom version of create-react-app with some changes and additions
 
