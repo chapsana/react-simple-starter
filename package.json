@@ -1,7 +1,7 @@
 {
   "name": "react-starter",
   "version": "1.0.0",
-  "description": "React starter app based on CRA 2",
+  "description": "Opinionated React starter app based on CRA",
   "private": true,
   "dependencies": {
     "react": "16.12.0",
