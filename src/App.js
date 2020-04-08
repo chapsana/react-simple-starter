@@ -1,10 +1,10 @@
-import React, { Fragment } from "react";
+import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Header from "./components/layout/Header";
 import Home from "./components/pages/Home";
-import "./App.css";
+import './App.css';
 
-const App = () => {
+function App() {
   return (
     <Router>
       <Fragment>
@@ -15,8 +15,8 @@ const App = () => {
           </Switch>
         </div>
       </Fragment>
-    </Router>
+    </Router>  
   );
-};
+}
 
 export default App;
