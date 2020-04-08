@@ -3,6 +3,12 @@
   "version": "2.0.0",
   "description": "Opinionated React starter app based on CRA",
   "private": true,
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "author": "Alpha Olomi <alphaolomi@gmail.com>",
+  "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -12,6 +18,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.1"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -32,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphaolomi/react-starter.git"
   }
 }
