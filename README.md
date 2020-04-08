@@ -14,7 +14,16 @@
   </a>
 </p>
 
-Opinionated React starter app based on CRA(Javascript) tempalate
+Custom version of create-react-app with some changes and additions, an opinionated React starter app based on CRA(Javascript) tempalate
+
+## Changes
+
+- Installed React Router v4
+- App.js changes (Added Header, Route, arrow function)
+- Added a components folder with Header, Home & Spinner
+- Added base styles in App.css for buttons, backgrounds, etc (Remove if needed)
+- Added Font Awesome to public/index.html
+- Removed logo.svg
 
 ### 🏠 [Homepage](https://github.com/alphaolomi/react-starter#readme)
 
@@ -40,8 +49,8 @@ yarn run test
 
 👤 **Alpha Olomi <alphaolomi@gmail.com>**
 
-* Website: https://alphaolomi.me
-* Github: [@alphaolomi](https://github.com/alphaolomi)
+- Website: https://alphaolomi.me
+- Github: [@alphaolomi](https://github.com/alphaolomi)
 
 ## 🤝 Contributing
 
@@ -56,5 +65,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [Alpha Olomi <alphaolomi@gmail.com>](https://github.com/alphaolomi).<br />
 This project is [ISC](https://github.com/alphaolomi/react-starter/blob/master/LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
